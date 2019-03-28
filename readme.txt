@@ -9,3 +9,6 @@ shabi boss
 
 help my teacher
 
+
+git is free software
+
